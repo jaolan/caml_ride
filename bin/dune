@@ -1,0 +1,4 @@
+(executable
+ (public_name caml_ride)
+ (name main)
+ (libraries caml_ride))

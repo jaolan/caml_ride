@@ -1,0 +1,52 @@
+# Dune build artifacts
+_build/
+*.install
+*.merlin
+
+# Compiled object files
+*.o
+*.obj
+*.cm[iox]*
+*.cmi
+*.cmti
+*.cmx
+*.cmo
+*.cmxa
+*.a
+*.so
+*.dll
+*.exe
+*.byte
+*.native
+
+# Other compiled files
+*.annot
+*.cmt
+*.cmx[as]
+
+# Documentation
+doc/
+*.odoc
+
+# Generated files
+*.install
+*.dune-project
+*.dune-workspace
+*.dune-workspace.dev
+*.opam
+.opam-switch/
+
+# Editor and IDE specific files
+*~
+\#*\#
+*.swp
+*.swo
+*.orig
+.DS_Store
+*.vscode/
+.idea/
+
+# Dependency directories
+node_modules/
+vendor/
+
